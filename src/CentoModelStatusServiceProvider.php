@@ -1,5 +1,5 @@
 <?php
-namespace CentoSquare\CentoLoc;
+namespace CentoSquare\CentoModelStatus;
 
 use Illuminate\Support\ServiceProvider;
 
